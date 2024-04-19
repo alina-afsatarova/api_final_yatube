@@ -95,7 +95,7 @@ GET-запроc с токеном, получение информации о п
 Пример ответа:
 ```
 {
-"user": "string",
-"following": "string"
+     "user": "user123",
+     "following": "New_User"
 }
 ```
